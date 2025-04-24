@@ -1,7 +1,3 @@
-Awesome! Here's a neat and professional **README description** you can use for your GitHub repository:
-
----
-
 ## 📄 Project: Responsive Sign-Up Form
 
 This project is a **responsive user sign-up form** built using **HTML, CSS, and JavaScript**. It includes form validation, a modern UI design, and adapts to different screen sizes — perfect for desktop and mobile users.
@@ -20,7 +16,6 @@ This project is a **responsive user sign-up form** built using **HTML, CSS, and 
 
 ### 📸 Screenshot
 ![Form page](https://github.com/user-attachments/assets/f45c2cf7-bbec-4e46-b4ed-8796dba520a3)
-
 
 ### 🚀 Getting Started
 1. Clone the repository:
