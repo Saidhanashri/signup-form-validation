@@ -15,7 +15,7 @@ This project is a **responsive user sign-up form** built using HTML, CSS, and Ja
 - **JavaScript** – form validation
 
 ### 📸 Screenshot
-![Screenshot](./path-to-your-screenshot.png)
+![Screenshot]("C:\Users\rcman\OneDrive\Pictures\Screenshots\Screenshot 2025-04-24 184449.png")
 
 ### 🚀 Getting Started
 1. Clone the repository:
