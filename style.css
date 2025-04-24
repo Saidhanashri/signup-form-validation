@@ -1,0 +1,88 @@
+body {
+    background-color: #4b65d1;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+  
+  form {
+    background-color: #8bc3e9; /* or your olive-like background */
+    padding: 30px;
+    border-radius: 12px;
+    width: 450px; /* increase width for broad card */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 16px;
+    font-size: 20px;
+  }  
+  
+  label {
+    display: block;
+    margin-bottom: 4px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 8px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }  
+
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 480px) {
+    form {
+      padding: 20px 15px;
+    }
+  
+    h2 {
+      font-size: 20px;
+    }
+  
+    input,
+    button {
+      font-size: 15px;
+      padding: 10px;
+    }
+  
+    label {
+      font-size: 15px;
+    }
+  }
+  
